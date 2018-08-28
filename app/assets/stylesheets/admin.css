@@ -2,5 +2,5 @@
 *= require posts"
 *= require bootstrap-addon"
 *= require jquery-addon"
-*= require "blog"
+*= require "blogs"
 */
